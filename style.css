@@ -31,7 +31,7 @@ input[type="paswd"] {
     color: black;
 }
 button {
-    background: linear-gradient(30deg,hotpink,lightgrey,lightgreen,red);
+    background-color : red;
     width: 320px;
     padding: 10px;
     font-size: 20px;
